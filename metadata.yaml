@@ -1,0 +1,36 @@
+_repo: Les-creux-de-maisons_70534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pérochon, Ernest
+    alias: Perochon, Ernest
+    birthdate: 1885
+    deathdate: 1942
+    gutenberg_agent_id: '55611'
+    url: http://www.gutenberg.org/2009/agents/55611
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ernest_P%C3%A9rochon
+    - https://fr.wikipedia.org/wiki/Ernest_P%C3%A9rochon
+description: ''
+gutenberg_issued: '2023-04-11'
+identifiers:
+  gutenberg: '70534'
+language: fr
+pgterms:marc904: https://archive.org/details/lescreuxdemaison00pruoft
+pgterms:marc905: 20230225030342prochon
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bPlon, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Fiction'
+- !lcsh 'Rural poor -- Fiction'
+- !lcsh 'Agricultural laborers -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Les creux-de-maisons
+url: http://www.gutenberg.org/ebooks/70534
