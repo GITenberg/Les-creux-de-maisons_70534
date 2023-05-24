@@ -1,5 +1,8 @@
 _repo: Les-creux-de-maisons_70534
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70534-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérochon, Ernest
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ernest_P%C3%A9rochon
     - https://fr.wikipedia.org/wiki/Ernest_P%C3%A9rochon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70534#Les-creux-de-maisons
 gutenberg_issued: '2023-04-11'
 identifiers:
   gutenberg: '70534'
